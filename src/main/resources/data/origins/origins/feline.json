@@ -6,7 +6,9 @@
 		"origins:nine_lives",
 		"origins:weak_arms",
 		"origins:scare_creepers",
-		"origins:cat_vision"
+		"origins:cat_vision",
+		"origins:feline_diet",
+		"origins:feline_legs"
 	],
 	"icon": {
 		"item": "minecraft:orange_wool"
